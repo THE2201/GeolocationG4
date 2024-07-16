@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135653672649",
+    "project_id": "geolocationg4",
+    "storage_bucket": "geolocationg4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135653672649:android:4feddd8203ba13b0f36f18",
+        "android_client_info": {
+          "package_name": "com.example.geolocationg4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBS0s75rB2oFyHNe7PsICndiSOPuaUhaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
